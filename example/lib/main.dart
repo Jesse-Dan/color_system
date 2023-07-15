@@ -22,11 +22,11 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         // The backgroundColor property sets the background color of the entire app.
         // The SystemColors class is assumed to be imported from color_service.dart, providing color constants.
-        backgroundColor: SystemColors.color1060,
+        backgroundColor: SystemColors.color50,
         appBar: AppBar(
           // The backgroundColor property sets the background color of the app bar.
           // The HexColor utility is imported from inbuilt_colors.dart and converts the hexadecimal color code to a Color object.
-          backgroundColor: HexColor('#fffff'),
+          backgroundColor: SystemColors.color0,
           // The title property sets the text to be displayed in the app bar.
           title: const Text('Plugin example app'),
         ),
