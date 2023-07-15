@@ -1,6 +1,8 @@
 
 import 'color_service.dart';
 
+
+/// A class that holds static variables representing different colors used in the application.
 class SystemColors {
   static var color0 = HexColor('#7af19e');
 static var color1 = HexColor('#75bc86');

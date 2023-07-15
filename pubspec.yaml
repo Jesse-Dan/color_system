@@ -1,6 +1,6 @@
 name: color_system
-description: A plugin to help you handle hex colors in your application.
-version: 0.0.3
+description: This plugin simplifies hex color handling, making it effortless to customize visual elements in your application with precision and ease.
+version: 0.0.5
 homepage: 'https://www.github.com/Jesse-Dan/color_system'
 
 environment:
