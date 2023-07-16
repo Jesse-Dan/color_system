@@ -1,6 +1,6 @@
-## 0.0.5
+## 0.0.6
 
-# Change Log for Version 5
+# Change Log for Version 6
 
 ## Overview
 
@@ -33,7 +33,7 @@ To upgrade to Version 3 of the `color_system` plugin, simply update your `pubspe
 
 ```yaml
 dependencies:
-  color_system: ^3.0.0
+  color_system: <VERSION>
 ```
 
 Then run `flutter pub get` to fetch the latest version.

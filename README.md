@@ -5,7 +5,6 @@
 The **color_system** plugin offers a seamless way to utilize hex color codes in your Flutter app. It simplifies the process of working with colors, providing a simple Dart method for easy implementation. The plugin is compatible with Flutter SDK version `3.3.0` or higher. A plugin to help you handle hex colors in your application. effortlessly manage and manipulate hex color codes to customize your application's visual elements with precision and ease. Whether you're a seasoned developer or just starting, this plugin simplifies the process of working with colors, giving you more time to focus on the creative aspects of your project.
 
 
-The **color_system** has alot more colors in its  `inbuilt_colors.dart` library 
 
 ## Getting Started
 

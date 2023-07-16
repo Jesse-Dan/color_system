@@ -1,6 +1,5 @@
 // Importing the necessary packages and dependencies
-import 'package:color_system/color_service.dart';
-import 'package:color_system/inbuilt_colors.dart';
+import 'package:color_system/color_system.dart';
 import 'package:flutter/material.dart';
 
 // The main entry point of the application
@@ -22,11 +21,11 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         // The backgroundColor property sets the background color of the entire app.
         // The SystemColors class is assumed to be imported from color_service.dart, providing color constants.
-        backgroundColor: SystemColors.color50,
+        backgroundColor: HexColor('fffff2'),
         appBar: AppBar(
           // The backgroundColor property sets the background color of the app bar.
           // The HexColor utility is imported from inbuilt_colors.dart and converts the hexadecimal color code to a Color object.
-          backgroundColor: SystemColors.color0,
+          backgroundColor: HexColor('#ffffff'),
           // The title property sets the text to be displayed in the app bar.
           title: const Text('Plugin example app'),
         ),
