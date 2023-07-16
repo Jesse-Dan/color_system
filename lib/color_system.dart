@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 class HexColor extends Color {
-  // Constructor to create a HexColor object from a hexadecimal color code.
+  /// Constructor to create a HexColor object from a hexadecimal color code.
   HexColor(final String hexColor) : super(_getColorFromHex(hexColor));
 
-  // Static method to convert a hexadecimal color code into an integer representation of the color.
+  /// Static method to convert a hexadecimal color code into an integer representation of the color.
   static int _getColorFromHex(String hexColor) {
     if (hexColor == '') {
       throw Exception('HexColor can\'t be empty. Needs Color to Paint');

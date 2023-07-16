@@ -26,8 +26,7 @@ To integrate the **color_system** plugin into your Flutter project, follow these
 3. Import the **color_system** package in your Dart code:
 
    ```dart
-   import 'package:color_system/system/inbuilt_colors.dart';
-   import 'package:color_system/system/color_service.dart';
+   import 'package:color_system/color_system.dart';
    ```
 
 4. Use the `HexColor` class to create colors from hex values:

@@ -1,6 +1,6 @@
-## 0.0.6
+## 0.0.7
 
-# Change Log for Version 6
+# Change Log for Version 7
 
 ## Overview
 
